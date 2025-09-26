@@ -71,7 +71,7 @@ build:
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Сборка](https://github.com/nabinary/8.3-gitlab-hw/tree/main/success-build.png)`
+![Сборка](https://github.com/nabinary/8.3-gitlab-hw/tree/main/success-build.png).`
 
 
 ---
