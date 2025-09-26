@@ -30,7 +30,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 
-![Настройки gitlab-runner](https://github.com/nabinary/8.3-gitlab-hw/edit/main/runner-settings-screenshot.png)`
+![Настройки gitlab-runner](https://github.com/nabinary/8.3-gitlab-hw/tree/main/runner-settings-screenshot.png)`
 
 
 ---
