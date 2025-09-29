@@ -33,8 +33,7 @@ git commit -m 'текст'
 git push origin main
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Страница авторизации](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/Админка.png)`
+![Страница авторизации](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/Админка.png)
 
 ---
 ### Задание 2 
@@ -55,9 +54,11 @@ git push origin main
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 ### Ответ 2
-![Hosts](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/hosts.png)`
-![agents log](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/logs.png)`
-![Latest Data](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/data.png)`
+![Hosts](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/hosts.png)
+
+![agents log](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/logs.png)
+
+![Latest Data](https://github.com/nabinary/netology-nzagirov-hw/Система%20мониторинга%20Zabbix/data.png)
 
 Команды git те же, что и в первом задании
 ---
