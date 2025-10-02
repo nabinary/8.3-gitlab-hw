@@ -24,7 +24,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ### Ответ 1
-![Задание 1]()
+![Задание 1](https://github.com/nabinary/netology-nzagirov-hw/blob/main/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/ex1.png)
 
 ---
 
@@ -57,9 +57,9 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ### Ответы 2 и 3
-![хосты]()
-![templates-1]()
-![templates-2]()
+![хосты](https://github.com/nabinary/netology-nzagirov-hw/blob/main/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/ex3_1.png)
+![templates-1](https://github.com/nabinary/netology-nzagirov-hw/blob/main/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/ex3_2.png)
+![templates-2](https://github.com/nabinary/netology-nzagirov-hw/blob/main/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/ex3_3.png)
  ---
  ### Задание 4
 Создайте свой кастомный дашборд.
@@ -73,4 +73,4 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### Ответ 4
-
+![dashboard](https://github.com/nabinary/netology-nzagirov-hw/blob/main/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/ex4.png)
